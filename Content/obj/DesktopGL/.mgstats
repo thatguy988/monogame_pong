@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/ball.jpg","C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",1404,175045,0.4356966
+"C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/galleryFont.spritefont","C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,1.5016952
+"C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/pong.png","C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/bin/DesktopGL/pong.xnb","TextureProcessor","Texture2DContent",1344,35389525,1.9273067
+"C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/redcircle.jpg","C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/bin/DesktopGL/redcircle.xnb","TextureProcessor","Texture2DContent",3455,129685,0.3897438
+"C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/target.png","C:/Users/jakob/source/repos/monogame_platformer_rpg/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.7104132
